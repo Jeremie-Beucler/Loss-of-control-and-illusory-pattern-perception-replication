@@ -2,7 +2,7 @@
 
 ## Registration
 
-This replication was pre-registered. You will find our osf registration here : (osf.io/umhxe/)](https://osf.io/umhxe/) . 
+This replication was pre-registered. You will find our osf registration here : [osf.io/umhxe/](https://osf.io/umhxe/) . 
 
 ## Supplementary material and analyses
 
