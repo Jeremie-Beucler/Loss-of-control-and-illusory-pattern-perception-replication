@@ -1,0 +1,15 @@
+# la plupart du temps les noms des variables sont clairs (e.g., PNS = score au PNS)
+
+IMC : 1 si a réussi l'IMC, 0 sinon
+genre_binaire = 1 si femme, 0 dans les autres cas
+loss_control : 1 si perte de contrôle, 0 sinon
+prop_correct : proportion de réponses correctes en tout (en prenant en compte les réponses timeout)
+HIT, MISS, FA, CR : proportion des hit, miss, fa, cr (sans prendre les réponses timeout en compte)
+HIT_corr : Hits + 0.5 / nb_signal + 1 (utilisé pour calculer le d' et le c)
+FA_corr : FA + 0.5 / nb_noise + 1 (utilisé pour calculer le d' et le c)
+dprime : discrimination perceptive
+c : critère de décision (positif : conservateur, négatif : libéral)
+HIT_outlier : taux de hits en prenant en compte les réponses timeout
+FA_outlier : idem
+nb_timeout : nombre de réponses "timeout" (de 0 à 32)
+RT_... : moyenne des RT pour les hits, fa, etc.
