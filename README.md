@@ -1,6 +1,6 @@
 # Loss-of-control-and-illusory-pattern perception - a conceptual replication of Whitson & Galinsky (2008)
 
-This repository contains data and code for a conceptual replication of a [2008 Science paper](https://doi.org/10.1126/science.1159845) by Whitson & Galinsky, which I conducted at the end of my Bachelor in Psychology in Paris. We failed to replicate the original effect, which did not surprise us (see also this [meta-analysis](https://doi.org/10.1002/ejsp.2690)).
+This repository contains data and code for a conceptual replication of a [2008 Science paper](https://doi.org/10.1126/science.1159845) by Whitson & Galinsky, which I conducted with Laura Charbit and David Vaidis at the end of my Bachelor in Psychology in Paris. We failed to replicate the original effect, which did not surprise us (see also this [meta-analysis](https://doi.org/10.1002/ejsp.2690)).
 
 ## Registration
 
